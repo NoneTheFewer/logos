@@ -1,0 +1,28 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<defs>
+		<style>.cls-1{fill:none;}.cls-2{clip-path:url(#clip-path);}.cls-3{fill:url(#linear-gradient);}.cls-4{fill:#25292e;}.cls-5{fill:#d1d1d1;}.cls-6{fill:#fff;}.cls-7{fill:url(#linear-gradient-2);}.cls-8{fill:url(#linear-gradient-3);}.cls-9{opacity:0.8;fill:url(#linear-gradient-4);}</style>
+		<clipPath id="clip-path">
+			<rect class="cls-1" x="-0.23" y="-0.13" width="500.23" height="499.58"/>
+		</clipPath>
+		<linearGradient id="linear-gradient" x1="-0.23" y1="249.66" x2="500" y2="249.66" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#004d7c"/>
+			<stop offset="1" stop-color="#102f4e"/>
+		</linearGradient>
+		<linearGradient id="linear-gradient-2" x1="146.61" y1="122.96" x2="-101.81" y2="-149.32" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#0f87c9"/>
+			<stop offset="1" stop-color="#00b2ec"/>
+		</linearGradient>
+		<linearGradient id="linear-gradient-3" x1="654.26" y1="-7632.54" x2="405.84" y2="-7904.81" gradientTransform="translate(1086.33 -7154.68) rotate(180)" xlink:href="#linear-gradient-2"/>
+		<linearGradient id="linear-gradient-4" x1="-623.86" y1="-7446.41" x2="-872.22" y2="-7718.62" gradientTransform="matrix(-0.95, -0.32, 0.32, -0.95, 2197.45, -6762.61)" xlink:href="#linear-gradient-2"/>
+	</defs>
+	<g class="cls-2">
+		<rect class="cls-3" x="-0.23" y="-0.13" width="500.23" height="499.58"/>
+		<path class="cls-4" d="M 503.5,0.0 C 502.41,0.0 501.34,-0.08 500.25,-0.08 C 223.92,-0.13 -0.09,223.52 -0.23,499.45 L 503.5,499.45 L 503.5,0.0"/>
+		<path id="path6" class="cls-5" d="M 174.0,250.72 C 127.77,250.72 90.29,286.98 90.29,331.72 C 90.29,376.46 127.77,412.58 174.0,412.58 C 220.23,412.58 257.63,376.41 257.63,331.72 C 257.63,287.03 220.2,250.72 174.0,250.72 M 174.0,263.53 C 203.22,263.53 226.88,294.1 226.88,331.68 C 226.88,369.26 203.21,399.74 174.0,399.74 C 144.79,399.74 121.0,369.29 121.0,331.68 C 121.0,294.07 144.75,263.53 174.0,263.53"/>
+		<path class="cls-6" d="M 222.19,179.44 L 239.71,191.22 L 285.82,303.0 L 325.15,409.0 L 347.0,409.0 L 391.69,294.76 C 405.99,257.63 428.51,204.44 437.45,186.58 L 445.31,179.44 L 422.38,179.44 L 422.74,181.23 L 387.35,278.0 L 347.67,373.33 L 343.02,372.61 L 309.02,287.28 L 269.34,185.18 A 32.39,32.39 0.0 0,1 268.98,179.47 L 222.19,179.47"/>
+		<path class="cls-7" d="M 488.42,-64.63 L -7.18,-16.25 L -16.45,506.47 L -0.23,499.47 C -0.1,225.44 214.0,-64.63 488.42,-64.63"/>
+		<path class="cls-8" d="M 90.26,665.44 L 585.86,617.06 L 595.13,94.35 L 578.91,101.35 C 578.78,375.35 364.67,665.43 90.26,665.43"/>
+		<path class="cls-9" d="M -10.5,550.77 L 474.05,665.44 L 652.48,174.0 L 634.86,175.38 C 545.79,434.52 249.09,639.6 -10.5,550.77"/>
+	</g>
+</svg>

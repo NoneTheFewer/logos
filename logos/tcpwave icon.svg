@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 19.86 19.86">
+	<style type="text/css">
+		.st0{fill:#0900B0;stroke:#7FB8FF;stroke-width:0.1;}
+		.st1{fill:#0900B0;}
+	</style>
+	<g transform="translate(2.565 0)">
+		<g transform="translate(.1 0)">
+			<path class="st0" d="M 5.96,2.22 L -0.05,2.22 L -0.05,0.05 L 14.58,0.05 L 14.58,2.22 L 8.54,2.22 L 8.54,19.81 L 5.96,19.81 L 5.96,2.22"/>
+		</g>
+		<!-- why? -->
+		<rect width=".1" height=".1" x="6.01" y="2.17" fill="#7FB8FF" />
+	</g>
+</svg>
