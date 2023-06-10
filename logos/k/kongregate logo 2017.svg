@@ -1,6 +1,5 @@
 <?xml version="1.0" ?>
 <svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 567.3421 48.080002">
-	<rect name="schelin" fill="lightgrey" width="100%" height="100%"/>
 	<g id="layer1">
 		<path style="fill:#e33d22;stroke-width:1.83013618;stroke:none;fill-opacity:1" d="M 0.0,0.0 L 0.0,48.08 L 9.616,48.08 L 9.616,28.848 L 28.848,28.848 L 28.848,19.232 L 9.616,19.232 L 9.616,0.0 L 0.0,0.0" id="path1489"/>
 		<path style="fill:#e33d22;stroke-width:1.83013618;stroke:none;fill-opacity:1" d="M 28.848,19.232 L 34.898,19.232 C 37.083,19.232 39.081,17.998 40.059,16.043 L 43.272,9.616 L 48.08,9.616 L 48.08,0.0 L 38.464,0.0 L 28.848,19.232" id="path1487"/>
